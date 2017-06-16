@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26403.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tango.Web", "Tango.Web\Tango.Web.csproj", "{FEDD1915-08EF-49DA-9421-D24871AEA2FB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tango.Domain", "Tango.Domain\Tango.Domain.csproj", "{C37427FB-E288-4E5C-8A9C-51373B16EEDD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{FEDD1915-08EF-49DA-9421-D24871AEA2FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FEDD1915-08EF-49DA-9421-D24871AEA2FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FEDD1915-08EF-49DA-9421-D24871AEA2FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C37427FB-E288-4E5C-8A9C-51373B16EEDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C37427FB-E288-4E5C-8A9C-51373B16EEDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C37427FB-E288-4E5C-8A9C-51373B16EEDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C37427FB-E288-4E5C-8A9C-51373B16EEDD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
